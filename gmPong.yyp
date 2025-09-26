@@ -35,9 +35,11 @@
   },
   "name":"gmPong",
   "resources":[
+    {"id":{"name":"oBall","path":"objects/oBall/oBall.yy",},},
     {"id":{"name":"oGameController","path":"objects/oGameController/oGameController.yy",},},
     {"id":{"name":"oPaddle","path":"objects/oPaddle/oPaddle.yy",},},
     {"id":{"name":"Arena","path":"rooms/Arena/Arena.yy",},},
+    {"id":{"name":"sBall","path":"sprites/sBall/sBall.yy",},},
     {"id":{"name":"sPaddle","path":"sprites/sPaddle/sPaddle.yy",},},
   ],
   "resourceType":"GMProject",
